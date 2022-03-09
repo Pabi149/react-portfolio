@@ -4,7 +4,7 @@ function About (){
         <h2 class="title">About me</h2>
         <div class="about-content">
             <div class="column left">
-                <img src="/images/20210913_062401.jpg" alt="Photo of me"/>
+                <img src="images/20210913_062401.jpg" alt="Photo of me"/>
             </div>
             <div class="column right">
                 <div class="text">I'm Pabitra and I'm a <span>Student</span></div>
